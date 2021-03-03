@@ -1,3 +1,3 @@
 cd ..
 git pull
-git checkout master
+git checkout main
